@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Paw Pal</string>
+    <string name="title_activity_main">Paw Pal</string>
+    <string name="package_name">com.pawpal.app</string>
+    <string name="custom_url_scheme">com.pawpal.app</string>
+</resources>

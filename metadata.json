@@ -1,0 +1,7 @@
+{
+  "name": "Pocket Pal Pro",
+  "description": "A retro neobrutalist pet companion and daily activity habit tracker with puppy diary, pet care simulation, and pawsome prizes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
